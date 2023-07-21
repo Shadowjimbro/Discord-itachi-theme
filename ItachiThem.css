@@ -1,0 +1,49 @@
+/**
+ * @name Itachi theme
+ * @author Shadowjimbro
+ * @version 1
+ * @description Display your picture of choice with adjustable blur and brightness.
+ * @source https://github.com/DiscordStyles/FrostedGlass
+*/
+
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@100;300;400;500;700&display=swap');
+@import url('https://discordstyles.github.io/FrostedGlass/dist/FrostedGlass.css');
+@import url('https://discordstyles.github.io/Addons/windows-titlebar.css');
+
+:root {
+  --background-image: url('https://i.imgur.com/XMhFTq8.gif');
+  --background-image-blur: 3px;
+  --background-image-size: cover;
+  --background-image-position: center;
+  --popout-image: url('https://i.imgur.com/uXdYqGC.gif');
+  --popout-image-blur: 5px;
+  --popout-image-size: cover;
+  --popout-image-position: top center;
+  --overlay-image: url('https://i.imgur.com/SFvVOgK.gif');
+  --overlay-image-blur: 5px;
+  --overlay-image-size: 100%;
+  --overlay-image-position: center;
+  --home-button-image: url('https://i.imgur.com/Iv0qIQi.jpg');
+  --home-button-size: 150%;
+  --home-button-position: center;
+  --serverlist-brightness: 0.84;
+  --left-brightness: 0.66;
+  --middle-brightness: 0.62;
+  --right-brightness: 0.3;
+  --overlay-brightness: 0.32;
+  --gradient-primary: 255,0,87;
+  --gradient-secondary: 17,11,11;
+  --link-colour: #CE5757;
+  --scrollbar-colour: rgb(246,0,0,0.36);
+  --gradient-direction: 317deg;
+  --tint-colour: 255,0,0;
+  --tint-brightness: 0.3;
+  --font: Kanit;
+  --window-padding: 0px;
+  --window-roundness: 20px;
+  --update-notice-1: none;
+}
+
+/* Any custom CSS below here */
+
+
